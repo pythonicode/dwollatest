@@ -1,0 +1,25 @@
+[debug] [2022-04-06T04:34:23.784Z] ----------------------------------------------------------------------
+[debug] [2022-04-06T04:34:23.786Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\antho\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-06T04:34:23.787Z] CLI Version:   10.0.1
+[debug] [2022-04-06T04:34:23.787Z] Platform:      win32
+[debug] [2022-04-06T04:34:23.787Z] Node Version:  v16.13.2
+[debug] [2022-04-06T04:34:23.788Z] Time:          Tue Apr 05 2022 21:34:23 GMT-0700 (Pacific Daylight Time)
+[debug] [2022-04-06T04:34:23.788Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-06T04:34:23.843Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-06T04:34:23.844Z] > authorizing via signed-in user (anthony.j.riley@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\antho\Desktop\Code\dwollatest
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
